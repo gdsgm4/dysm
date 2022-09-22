@@ -2,3 +2,6 @@ vless://81f1f510-3ca7-4734-8956-0f4fce670af5@172.64.147.159:443?type=ws&security
 
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@190.93.244.224:443?type=ws&security=tls&path=%2Ffastssh%2Fdtredgh%2F632b18bceb6dd%2F&host=id-2.vless.co&sni=id-2.vless.co#id-2.vless.co
 
+vless://8db51338-3ae2-4686-9a2c-25c53dc1b055@172.64.147.159:443?type=ws&security=tls&path=%2Fwebsocket&host=sg1-ctb-ws.xvless.xyz&sni=sg1-ctb-ws.xvless.xyz#sshocean-fjkss
+
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@190.93.244.224:443?type=ws&security=tls&path=%2Fopentunnel%3Fuser%3Dopentunnel.net-hsywas&host=ukx-1.openv2ray.com&sni=ukx-1.openv2ray.com#opentunnel.net-hsywas
