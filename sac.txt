@@ -5,3 +5,13 @@ vless://81f1f510-3ca7-4734-8956-0f4fce670af5@190.93.244.224:443?type=ws&security
 vless://8db51338-3ae2-4686-9a2c-25c53dc1b055@172.64.147.159:443?type=ws&security=tls&path=%2Fwebsocket&host=sg1-ctb-ws.xvless.xyz&sni=sg1-ctb-ws.xvless.xyz#sshocean-fjkss
 
 vless://4f17e173-4af9-5041-9662-f6c27e0decfd@190.93.244.224:443?type=ws&security=tls&path=%2Fopentunnel%3Fuser%3Dopentunnel.net-hsywas&host=ukx-1.openv2ray.com&sni=ukx-1.openv2ray.com#opentunnel.net-hsywas
+vless://9a2b6a26-b69c-4a61-9cd5-e42140a1e927@vbndfr.errtxct.cf:443?type=ws&security=tls&path=%2Feihyws&host=vbndfr.errtxct.cf&sni=vbndfr.errtxct.cf#010-VLESS
+
+
+vmess://ws+tls:9a2b6a26-b69c-4a61-9cd5-e42140a1e927-0@vbndfr.errtxct.cf:443/?host=vbndfr.errtxct.cf&path=/eihyvws&tlsServerName=vbndfr.errtxct.cf#010-VMESS
+vless://c7c21d6b-9841-4b23-b64b-c6dbaf241b09@mx1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=mx1-ws.xvless.xyz&type=ws&sni=bug.hostname.com#sshocean-v2rtyiu
+
+
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@bug.hostname.com:443?encryption=none&security=tls&type=ws&host=ukx-1.openv2ray.com&path=%2fopentunnel%3fuser%3dopentunnel.net-tyuii#opentunnel.net-tyuii
+
+vless://81f1f510-3ca7-4734-8956-0f4fce670af5@us1.vless.co:443/?type=ws&encryption=none&host=bug.hostname.com&path=%2Ffastssh/tyuio/631c5a0568cc7/&security=tls&sni=bug.hostname.com#us1.vless.co
